@@ -128,4 +128,9 @@
     .footer__download {
         justify-content: center;
     }
+    .footer__download--link {
+        display: block;
+        padding: 6px 12px;
+
+    }
 }
